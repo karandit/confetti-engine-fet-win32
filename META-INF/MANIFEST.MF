@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Win32
+Bundle-Name: FET Engine Win32
 Bundle-SymbolicName: org.confetti.fet.engine.win32
 Bundle-Version: 1.0.0.qualifier
 Fragment-Host: org.confetti.fet.engine;bundle-version="1.0.0"
